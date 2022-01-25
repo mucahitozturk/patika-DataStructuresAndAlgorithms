@@ -11,4 +11,4 @@ Yukarıdaki dizinin Merge Sort türüne göre çözüm aşamalarını ve Big-O g
 5.Aşama (11,16,21)  ve  (8,12,22)
 6.Aşama (8,11,12,16,21,22)
 
-Big-O gösterimini yazınız.  ->Big-O= nlogn
+Big-O gösterimini yazınız. >> Big-O= nlogn
