@@ -1,0 +1,14 @@
+# Merge Sort Solution
+
+[16,21,11,8,12,22]
+
+Yukarıdaki dizinin Merge Sort türüne göre çözüm aşamalarını ve Big-O gösterimini yazınız.
+
+1.Aşama (16,21,11) ve (8,12,22)
+2.Aşama (16), (21,11)  ve   (8,12), (22)
+3.Aşama (16), (21), (11)   ve   (8) ,(12), (22)
+4.Aşama (16,21), (11)   ve   (8,12) , (22)
+5.Aşama (11,16,21)  ve  (8,12,22)
+6.Aşama (8,11,12,16,21,22)
+
+Big-O gösterimini yazınız.  ->Big-O= nlogn
